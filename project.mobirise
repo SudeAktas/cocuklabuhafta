@@ -50,8 +50,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Anasayfa - Çocukla bu hafta (istanbul etkinlik çocuk, anne, baba, aile)",
+        "meta_descr": "Çocukla bu hafta\nİstanbul'da çocuklar ve aileleri için güncel etkinlik, mekan, gezi, kitap önerileri. Müze, tema park, tiyatro, sinema, oyun grubu ve atölyeler. Hafta sonu geldiğinde, çocuklarla birlikte her zaman yaptıklarımızdan farklı aktiviteler yapmak.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
